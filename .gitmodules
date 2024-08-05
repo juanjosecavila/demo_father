@@ -1,0 +1,3 @@
+[submodule "child/repo_child"]
+	path = child/repo_child
+	url = https://github.com/juanjosecavila/demo_child.git
